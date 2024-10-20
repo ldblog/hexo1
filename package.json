@@ -2,7 +2,7 @@
   "dependencies": {
     "hexo": "^7.3.0"
   }
-}
+},
 {
   "scripts": {
     "build": "hexo generate"
